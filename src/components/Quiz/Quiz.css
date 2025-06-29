@@ -1,0 +1,102 @@
+.quiz-wrapper {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #98b7d8, #00c6ff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 20px;
+}
+
+.quiz-card {
+  background: #fff;
+  border-radius: 18px;
+  padding: 40px 30px;
+  max-width: 700px;
+  width: 100%;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2);
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.quiz-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.quiz-header .ui.label {
+  background-color: #e6d6ff !important;
+  color: #5a189a !important;
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 8px 14px;
+  border-radius: 12px !important;
+  box-shadow: 0 4px 12px rgba(90, 24, 154, 0.15);
+}
+
+.quiz-header h3 {
+  font-size: 1.6rem;
+  color: #1e1e1e;
+}
+
+.quiz-question {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 25px;
+  color: #222;
+}
+
+.quiz-options {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.quiz-options button {
+  background-color: #f0f8ff !important;
+  color: #333 !important;
+  border-radius: 12px !important;
+  padding: 14px 20px !important;
+  transition: all 0.3s ease;
+  font-weight: 500;
+  font-size: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.quiz-options button:hover {
+  background-color: #007bff !important;
+  color: white !important;
+  transform: translateY(-1px);
+}
+
+.quiz-options button.active,
+.quiz-options button:focus {
+  background-color: #0056b3 !important;
+  color: white !important;
+}
+
+.quiz-button {
+  margin-top: 35px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 500;
+  color: #444;
+}
+
+.quiz-button button {
+  padding: 12px 24px !important;
+  border-radius: 10px !important;
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

@@ -1,0 +1,356 @@
+[
+  {
+    "category": "1",
+    "difficulty": "easy",
+    "question": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "category": "1",
+    "difficulty": "easy",
+    "question": "What is the capital city of France?",
+    "options": ["Paris", "Berlin", "London", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "category": "1",
+    "difficulty": "easy",
+    "question": "What is the boiling point of water in Celsius?",
+    "options": ["90°C", "80°C", "100°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "category": "1",
+    "difficulty": "easy",
+    "question": "Which language is spoken in Brazil?",
+    "options": ["Portuguese", "Spanish", "French", "English"],
+    "answer": "Portuguese"
+  },
+  {
+    "category": "1",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Mars"
+  },
+  {
+    "category": "1",
+    "difficulty": "medium",
+    "question": "How many days are there in a leap year?",
+    "options": ["365", "366", "364", "360"],
+    "answer": "366"
+  },
+  {
+    "category": "1",
+    "difficulty": "medium",
+    "question": "How many hours are there in a day?",
+    "options": ["24", "12", "36", "48"],
+    "answer": "24"
+  },
+  {
+    "category": "1",
+    "difficulty": "medium",
+    "question": "What do bees produce?",
+    "options": ["Milk", "Sugar", "Honey", "Wax"],
+    "answer": "Honey"
+  },
+  {
+    "category": "1",
+    "difficulty": "medium",
+    "question": "What color is a banana?",
+    "options": ["Green", "Blue", "Red", "Yellow"],
+    "answer": "Yellow"
+  },
+  {
+    "category": "1",
+    "difficulty": "medium",
+    "question": "How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "answer": "8"
+  },
+
+  {
+    "category": "2",
+    "difficulty": "easy",
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Power Unit", "Central Power Unit", "Computer Processing Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "category": "2",
+    "difficulty": "easy",
+    "question": "What company developed the Windows OS?",
+    "options": ["Microsoft", "Apple", "Google", "IBM"],
+    "answer": "Microsoft"
+  },
+  {
+    "category": "2",
+    "difficulty": "easy",
+    "question": "Which device is used to print documents?",
+    "options": ["Monitor", "Scanner", "Printer", "Keyboard"],
+    "answer": "Printer"
+  },
+  {
+    "category": "2",
+    "difficulty": "easy",
+    "question": "Which social media platform uses blue as its main color?",
+    "options": ["Instagram", "Facebook", "YouTube", "TikTok"],
+    "answer": "Facebook"
+  },
+  {
+    "category": "2",
+    "difficulty": "easy",
+    "question": "Which of these is a programming language?",
+    "options": ["HTML", "Python", "CSS", "XML"],
+    "answer": "Python"
+  },
+  {
+    "category": "2",
+    "difficulty": "medium",
+    "question": "Which app is mainly used for video meetings?",
+    "options": ["Zoom", "Instagram", "WhatsApp", "Photoshop"],
+    "answer": "Zoom"
+  },
+  {
+    "category": "2",
+    "difficulty": "medium",
+    "question": "Which company makes the iPhone?",
+    "options": ["Samsung", "Apple", "Nokia", "Google"],
+    "answer": "Apple"
+  },
+  {
+    "category": "2",
+    "difficulty": "medium",
+    "question": "Which shortcut is used to paste?",
+    "options": ["Ctrl + P", "Ctrl + V", "Ctrl + C", "Ctrl + X"],
+    "answer": "Ctrl + V"
+  },
+  {
+    "category": "2",
+    "difficulty": "medium",
+    "question": "What does USB stand for?",
+    "options": ["Universal Serial Bus", "Universal System Board", "United Serial Block", "Unlimited Storage Backup"],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "category": "2",
+    "difficulty": "medium",
+    "question": "Which browser is developed by Google?",
+    "options": ["Firefox", "Safari", "Chrome", "Edge"],
+    "answer": "Chrome"
+  },
+
+  {
+    "category": "3",
+    "difficulty": "easy",
+    "question": "Who played Iron Man in Marvel movies?",
+    "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Tom Holland"],
+    "answer": "Robert Downey Jr."
+  },
+  {
+    "category": "3",
+    "difficulty": "easy",
+    "question": "Which movie features the song 'Let It Go'?",
+    "options": ["Tangled", "Frozen", "Moana", "Brave"],
+    "answer": "Frozen"
+  },
+  {
+    "category": "3",
+    "difficulty": "easy",
+    "question": "Which platform released 'Stranger Things'?",
+    "options": ["Amazon Prime", "HBO", "Netflix", "Disney+"],
+    "answer": "Netflix"
+  },
+  {
+    "category": "3",
+    "difficulty": "easy",
+    "question": "What is the name of Harry Potter's owl?",
+    "options": ["Hedwig", "Errol", "Crookshanks", "Fawkes"],
+    "answer": "Hedwig"
+  },
+  {
+    "category": "3",
+    "difficulty": "easy",
+    "question": "In which movie is 'Hakuna Matata' a song?",
+    "options": ["The Jungle Book", "The Lion King", "Finding Nemo", "Aladdin"],
+    "answer": "The Lion King"
+  },
+  {
+    "category": "3",
+    "difficulty": "medium",
+    "question": "Which superhero uses a shield?",
+    "options": ["Iron Man", "Spider-Man", "Thor", "Captain America"],
+    "answer": "Captain America"
+  },
+  {
+    "category": "3",
+    "difficulty": "medium",
+    "question": "What is the color of the lightsaber Luke Skywalker uses?",
+    "options": ["Red", "Green", "Blue", "Purple"],
+    "answer": "Blue"
+  },
+  {
+    "category": "3",
+    "difficulty": "medium",
+    "question": "Which actress plays Hermione in Harry Potter?",
+    "options": ["Emma Watson", "Emma Stone", "Scarlett Johansson", "Anne Hathaway"],
+    "answer": "Emma Watson"
+  },
+  {
+    "category": "3",
+    "difficulty": "medium",
+    "question": "What does TV stand for?",
+    "options": ["Television", "Telegraph View", "Tele Visual", "Tech Vision"],
+    "answer": "Television"
+  },
+  {
+    "category": "3",
+    "difficulty": "medium",
+    "question": "Who directed 'Titanic'?",
+    "options": ["Christopher Nolan", "James Cameron", "Steven Spielberg", "Peter Jackson"],
+    "answer": "James Cameron"
+  },
+
+  {
+    "category": "4",
+    "difficulty": "easy",
+    "question": "What is the national animal of Scotland?",
+    "options": ["Unicorn", "Lion", "Horse", "Eagle"],
+    "answer": "Unicorn"
+  },
+  {
+    "category": "4",
+    "difficulty": "easy",
+    "question": "Which fruit floats in water because 25% of its volume is air?",
+    "options": ["Apple", "Banana", "Mango", "Grapes"],
+    "answer": "Apple"
+  },
+  {
+    "category": "4",
+    "difficulty": "easy",
+    "question": "What is the only food that doesn't spoil?",
+    "options": ["Honey", "Sugar", "Salt", "Rice"],
+    "answer": "Honey"
+  },
+  {
+    "category": "4",
+    "difficulty": "easy",
+    "question": "Which letter is not found in any U.S. state name?",
+    "options": ["Q", "X", "Z", "J"],
+    "answer": "Q"
+  },
+  {
+    "category": "4",
+    "difficulty": "easy",
+    "question": "What’s the name of the toy cowboy in Toy Story?",
+    "options": ["Woody", "Buzz", "Andy", "Jessie"],
+    "answer": "Woody"
+  },
+  {
+    "category": "4",
+    "difficulty": "medium",
+    "question": "What color are the black boxes in airplanes?",
+    "options": ["Orange", "Black", "Gray", "White"],
+    "answer": "Orange"
+  },
+  {
+    "category": "4",
+    "difficulty": "medium",
+    "question": "How many hearts does an octopus have?",
+    "options": ["Three", "One", "Two", "Four"],
+    "answer": "Three"
+  },
+  {
+    "category": "4",
+    "difficulty": "medium",
+    "question": "Which animal can sleep for up to 3 years?",
+    "options": ["Snail", "Koala", "Tortoise", "Bear"],
+    "answer": "Snail"
+  },
+  {
+    "category": "4",
+    "difficulty": "medium",
+    "question": "What is the tiny plastic tip at the end of a shoelace called?",
+    "options": ["Aglet", "Clip", "Lace-end", "Snip"],
+    "answer": "Aglet"
+  },
+  {
+    "category": "4",
+    "difficulty": "medium",
+    "question": "Which planet spins the fastest in the solar system?",
+    "options": ["Jupiter", "Saturn", "Mars", "Earth"],
+    "answer": "Jupiter"
+  },
+
+  {
+    "category": "5",
+    "difficulty": "easy",
+    "question": "What is H2O commonly known as?",
+    "options": ["Salt", "Hydrogen", "Water", "Oxygen"],
+    "answer": "Water"
+  },
+  {
+    "category": "5",
+    "difficulty": "easy",
+    "question": "What planet is closest to the sun?",
+    "options": ["Earth", "Venus", "Mercury", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "5",
+    "difficulty": "easy",
+    "question": "Which gas do humans need to breathe?",
+    "options": ["Carbon Dioxide", "Oxygen", "Hydrogen", "Nitrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "5",
+    "difficulty": "easy",
+    "question": "Which part of the plant conducts photosynthesis?",
+    "options": ["Stem", "Root", "Leaf", "Flower"],
+    "answer": "Leaf"
+  },
+  {
+    "category": "5",
+    "difficulty": "easy",
+    "question": "What force pulls objects towards Earth?",
+    "options": ["Magnetism", "Friction", "Gravity", "Velocity"],
+    "answer": "Gravity"
+  },
+  {
+    "category": "5",
+    "difficulty": "medium",
+    "question": "Which organ pumps blood?",
+    "options": ["Brain", "Lungs", "Heart", "Liver"],
+    "answer": "Heart"
+  },
+  {
+    "category": "5",
+    "difficulty": "medium",
+    "question": "What is the freezing point of water in Celsius?",
+    "options": ["0°C", "32°C", "100°C", "-10°C"],
+    "answer": "0°C"
+  },
+  {
+    "category": "5",
+    "difficulty": "medium",
+    "question": "What is the center of an atom called?",
+    "options": ["Electron", "Neutron", "Nucleus", "Proton"],
+    "answer": "Nucleus"
+  },
+  {
+    "category": "5",
+    "difficulty": "medium",
+    "question": "What do bees collect from flowers?",
+    "options": ["Water", "Pollen", "Fruit", "Dew"],
+    "answer": "Pollen"
+  },
+  {
+    "category": "5",
+    "difficulty": "medium",
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Saturn", "Earth", "Jupiter", "Mars"],
+    "answer": "Jupiter"
+  }
+]

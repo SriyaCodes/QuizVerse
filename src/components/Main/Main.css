@@ -1,0 +1,96 @@
+.main-bg {
+  background: linear-gradient(to right top, #c2e9fb, #a1c4fd);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Aligns content to the top */
+  padding-top: 5rem; /* Controls gap from navbar */
+}
+.footer-text {
+  position: absolute;
+  bottom: 100px;
+  text-align: center;
+  width: 100%;
+  color: #333;
+  font-size: 0.9rem;
+}
+
+
+.main-box {
+  background-color: #ffffff !important;
+  border-radius: 20px !important;
+  transition: all 0.3s ease;
+  animation: fadeIn 0.5s ease-in-out;
+  max-width: 600px;
+  width: 90%;
+  align-items: flex-start;
+  padding: 1rem;
+}
+
+/* Label and field side-by-side */
+.field-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  gap: 1rem;
+}
+
+.field-row label {
+  white-space: nowrap;
+  min-width: 140px;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.field-row .ui.dropdown,
+.field-row .ui.input {
+  flex-grow: 1;
+  max-width: 350px;
+}
+
+/* Countdown timer subfields */
+.timer-row {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+.timer-row .ui.dropdown {
+  flex: 1;
+}
+
+.start-btn {
+  background-color: #0074e4 !important;
+  color: white !important;
+  font-weight: bold !important;
+  border-radius: 10px !important;
+  transition: background-color 0.3s ease;
+  margin-top: 1.5rem;
+}
+
+.start-btn:hover {
+  background-color: #005bb5 !important;
+}
+
+@keyframes zoomIn {
+  from {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
